@@ -1,0 +1,31 @@
+{
+  "name": "ex-tracker",
+  "version": "1.0.0",
+  "description": "exercises tracker",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wandajulianto/exercise-tracker.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "exercise-tracker"
+  ],
+  "author": "wandajulian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wandajulianto/exercise-tracker/issues"
+  },
+  "homepage": "https://github.com/wandajulianto/exercise-tracker#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongoose": "^6.5.2"
+  }
+}
